@@ -136,4 +136,4 @@
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
-![footer]<img src="PNG/footer.png" width="1000" />
+<img src="PNG/footer.png" width="1000" />
