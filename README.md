@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24">
-  Hey &lt;TechWithNani&gt;!
+     TechWithNani 
   <img src="GIF/Hi.gif" width="40" />
 </h1>
 
