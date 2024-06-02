@@ -95,7 +95,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Mrinank-Bhowmick">
+  <a href="https://github.com/NaveenKumarChinnaboina">
     <img align="center" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=NaveenKumarChinnaboina&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/NaveenKumarChinnaboina">
@@ -136,4 +136,4 @@
 
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
 
-![footer](https://github.com/NaveenKumarChinnaboina/NaveenKumarChinnaboina/blob/master/PNG/footer.png)
+![footer]<img src="PNG/footer.png" width="1000" />
